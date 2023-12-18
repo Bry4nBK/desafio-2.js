@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgba(223, 147, 5, 0.788);
+    display: flex;
+    flex-direction: column;
+    align-items: center
+    
+}
+
+button {
+    margin-top: 20px;
+}
+
